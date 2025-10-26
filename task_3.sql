@@ -1,3 +1,6 @@
--- List all tables in the current database
+-- Use the correct database
+USE alx_book_store;
+
+-- List all tables in the database
 SHOW TABLES;
 
